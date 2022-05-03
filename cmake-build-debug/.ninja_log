@@ -1,0 +1,15 @@
+# ninja log v5
+1	402	1651606914584729950	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+0	410	1651606914595700908	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+410	541	1651606914727379150	Lab11_2	4ddcf419ac7257bf
+2	436	1651607189053262251	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+1	449	1651607189068813792	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+2	300	1651607219996138741	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+1	266	1651607227585005393	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+1	274	1651607227593374684	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+2	273	1651607237030121938	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+1	274	1651607237030572647	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+1	358	1651607254540557401	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
+1	313	1651607275741832153	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+2	442	1651607297722156986	CMakeFiles/Lab11_2.dir/main.cpp.o	bdb9e16771edb9dd
+1	368	1651607339487960443	CMakeFiles/Lab11_2.dir/myArray.cpp.o	f0c3d84e9b3c347c
